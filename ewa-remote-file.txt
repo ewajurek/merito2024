@@ -1,3 +1,4 @@
 ten plik zostal wygenerowany na repozytorium zdalnym 
 na galezi main w soote o 8:19:11
 23.11.2024
+edytowane z Visual studio online
